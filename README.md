@@ -4,7 +4,7 @@ This repository contains the source code and documentation for a Whole Exome Seq
 
 ## 📄 Project Report
 
-You can find the detailed project report in the [WES_Project_Report.pdf](./WES_Project_Report.pdf) file.
+You can find the detailed project report in the [BioinfromaticsReport.pdf](./BioinfromaticsReport.pdf) file.
 
 
 ## 🧬 Pipeline Overview
