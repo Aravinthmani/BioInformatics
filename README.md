@@ -6,17 +6,6 @@ This repository contains the source code and documentation for a Whole Exome Seq
 
 You can find the detailed project report in the [WES_Project_Report.pdf](./WES_Project_Report.pdf) file.
 
-## 📁 Repository Structure
-
-.
-├── bin/ # Executable scripts used in the pipeline
-├── configs/ # Configuration files for tools and samples
-├── data/ # Input FASTQ, reference, and known variants
-├── results/ # Output files generated from each pipeline step
-├── workflow/ # Nextflow pipeline files (main.nf, etc.)
-├── WES_Project_Report.pdf # Detailed report of the project
-└── README.md # Project documentation
-
 
 ## 🧬 Pipeline Overview
 
